@@ -1,0 +1,86 @@
+
+#container{
+	position: relative;
+	width:620px;
+	height: 1500px;
+	margin:0 auto;
+	border-style: solid;
+	border-color: blue;
+}
+
+.middleDiv{
+	width: 620px;
+	float: left;
+}
+
+#windowLeft{
+	width: 75px;
+	float: left;
+	text-align: center;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0);
+}
+
+#windowRight{
+	width: 75px;
+	float: right;
+	text-align: center;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0);
+}
+
+.letter{
+	width: 51px;
+	float: left;
+	text-align: center;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0);
+}
+
+#aisle{
+	width: 125px;
+	float: left;
+	text-align: center;
+}
+
+
+.numberL{
+	width: 75px;
+	height: 50px;
+	text-align: center;
+	float: left;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0);
+	margin-top: 20px;
+}
+
+.numberR{
+	width: 75px;
+	height: 50px;
+	text-align: center;
+	float: right;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0);
+	margin-top: 20px;
+}
+
+
+.side{
+	width: 50px;
+	border-width: 0px;
+}
+
+.emergency{
+	width: 50px;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0);
+}
+
+.seat{
+	width: 50px;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0);
+}
+
+
+
